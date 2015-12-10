@@ -8,7 +8,7 @@ Most of our time was spent talking through our process; while other topics such 
 In general, our process has the following as the key components:
 
 - [Track project requirements and scope, platform and frameworks using a standard form](#requirements) ,
-- List all these projects on a web application called our Project Clearinghouse,
+- [List all these projects on a web application called our Project Clearinghouse](#requirements),
 - Use Jira to track tasks, bugs and progress on apps under development,
 - Use GitHub as our code repository,
 - Use a documentDB (for applications) and SQL Server,
@@ -19,7 +19,7 @@ In general, our process has the following as the key components:
 
 The following sections will define these in more detail. 
 
-### [Project Kickoff, Requirements Form and the Project Clearinghouse](#reqirements)
+### [Project Kickoff, Requirements Form and the Project Clearinghouse](#requirements)
 
 To understand the requirements of the apps that we are being asked to build, we must create a standard process that guides the initial stages of the project and requires that relevant information about the project is written down and shared. To share information about those projects with one another and the firm most easily, we will create a web form for us to use to enter the information. All new projects will be required to complete the Project Requirements form before they can become a project and work can begin. Once projects are completed and the site has gone live, the content entered into this Requirements form (along with additional information) will be accessible via an application that we can use to keep track of the status of the site, its maintenance needs, future projects that will update, extend or replace the application. We are calling this site the Project Clearinghouse. 
 
